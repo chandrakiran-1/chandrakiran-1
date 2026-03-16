@@ -17,13 +17,24 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql" />
 </p>
 
----
+### ⚙️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,aws,git,github,vscode,idea" />
+</p>
+
+### 📊 Data Analysis & Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook
 
 ## 📊 GitHub Stats
 
