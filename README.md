@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandrakiran</h1>
-<h3 align="center">BSc Computer Science Student | Aspiring DevSecOps Engineer</h3>
+<h3 align="center">BSc Computer Science Student | Aspiring Agentic AI Engineer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chandrakiran-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+Building AI Agents, Backend Systems, and Cloud-Native Applications
 </p>
 
 ---
@@ -10,61 +10,60 @@
 ## 👨‍💻 About Me
 
 - 🎓 BSc Computer Science Student
-- 🌱 Currently learning **Linux, Python & DevSecOps**
-- 💻 Interested in **Cloud Security & Automation**
-- 📊 Working on **Data Analysis Projects**
-- 🚀 Goal: Become a **DevSecOps Engineer**
+- 🐍 Python Developer
+- ⚡ Building REST APIs with FastAPI
+- 🤖 Exploring Agentic AI, LLMs, and AI Automation
+- ☁️ Working with AWS Cloud Services
+- 🐧 Linux Enthusiast
+- 📜 Writing Bash Scripts for Automation
+- 🚀 Building Real-World Projects
+- 🎯 Goal: Become an Agentic AI Engineer
 
 ---
-
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql" />
-</p>
+### Languages
+Python • SQL • Java • JavaScript • Bash
 
-### ⚙️ Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,aws,git,github,vscode,idea" />
-</p>
+### Backend Development
+FastAPI • REST APIs • Pydantic • SQLAlchemy
 
-### 📊 Data Analysis & Visualization
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Jupyter Notebook
+### Cloud & DevOps
+AWS • Linux • Shell Scripting • Git • GitHub
 
-## 📊 GitHub Stats
+### Databases
+MySQL • SQLite
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandrakiran-1&show_icons=true&theme=tokyonight"/>
-</p>
+### AI Engineering
+LLMs • AI Agents • Prompt Engineering • AI Automation
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 Currently Learning
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=chandrakiran-1&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakiran-1&layout=compact&theme=tokyonight"/>
-</p>
+- Agentic AI Systems
+- Advanced FastAPI
+- LLM Application Development
+- AI Agent Frameworks
+- Cloud-Native AI Deployments
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Current Projects
 
-- 📧 Email: gudlachandrakiran@gmail.com
-- 💼 LinkedIn: -  [Chandrakiran Reddy](https://linkedin.com/in/chandrakiranreddygudla)
+- FastAPI CRUD Applications
+- Database-Driven APIs
+- AI Agent Projects
+- Automation Scripts
 
 ---
 
-⭐ From [chandrakiran-1](https://github.com/chandrakiran-1)
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/chandrakiranreddygudla
+- GitHub: github.com/chandrakiran-1
+
+---
+
+⭐ Passionate about AI, Backend Development, Cloud Computing, and Automation.
